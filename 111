@@ -1,39 +1,39 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>个人介绍 - xxxx吃x</title>
-    <style>
-        /* 基础样式 */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Microsoft YaHei', Arial, sans-serif;
-        }
+<！doctype超文本标记语言>
+<超文本标记语言<超文本标记语言朗="zh-CN">朗="zh-CN">
+<头>
+<元字符集="UTF-8"><元字符集="UTF-8">
+<元名称=“视口”内容=“宽度=设备宽度，初始比例=1.0”><元 姓名="视口" 内容="宽度=设备宽度，初始比例=1.0">
+<标题>个人介绍-XXXX吃X</标题><标题>个人介绍-XXXX吃x</标题>
+<风格><风格>
+/* 基础样式 */
+*{{
+页边距：0；
+填充：0；
+框大小：边框框；
+字体系列："微软'微软亚黑'，Ar我一个l，无衬线；雅黑"，宋体，无衬线；
+}}
         
-        body {
-            background-image: url('https://example.com/furina-background.jpg'); /* 替换为您的芙玲娜背景图路径 */
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            background-color: #f0f8ff; /* 备用背景色 */
-            color: #333;
-            line-height: 1.6;
-            min-height: 100vh;
-            padding: 20px;
-        }
+正文{
+背景图像：URL背景图像：URL‘https://ex一个米ple.co米/fur我n一个-b一个ckground.jpg"https://ex一个米ple.co米/fur我n一个-b一个ckground.jpg'背景图象：URL('https://ex一个米ple.co米/fur我n一个-b一个ckground.jpg')；/*替换为您的芙玲娜背景图路径*//*替换为您的芙玲娜背景图路径*/
+背景尺寸：封面；
+背景位置：中心；
+背景附着：固定；
+背景色：#f0f8ff；/*备用背景色*/f0f8ff；/*备用背景色*/
+颜色：#333；
+线高：1.6；
+最低高度：100VH；
+填料：20px；
+}}
         
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background-color: rgba(255, 255, 255, 0.9);
-            border-radius: 15px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-            overflow: hidden;
-            padding: 30px;
-        }
+。容器.容器容器{
+最大宽度：800px；
+页边距：0自动；
+背景色：RGBA(背景色：RGBA(255，255，255，0.9)；，255，255，0.9)；
+边界半径：15px；
+盒阴影：05px15pxrgb一个盒阴影：05px15pxrgb一个箱形阴影：05px15px0RGBA(0，0，0，0.2)；，0，0，0.2)；
+溢出：隐藏；
+填充：30px；填充：30填充：30
+}}
         
         /* 头部样式 */
         .header {
